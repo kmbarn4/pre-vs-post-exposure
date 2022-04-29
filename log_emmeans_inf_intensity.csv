@@ -1,0 +1,4 @@
+﻿treatment,mean,SE,lower_CI,upper_CI
+control,11.23,0.84,9.56,12.91
+pre-exposure,7.86,0.84,6.18,9.54
+post-exposure,11.59,0.858,9.88,13.3
